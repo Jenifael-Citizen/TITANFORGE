@@ -10,16 +10,6 @@
 
 ---
 
-## **📌 Organisation des Divisions Opérationnelles**
-
-### **🌾 Division DÉMÉTER (Industrie : Minage, Salvage, Agriculture)**
-### **💰 Division HERMÈS (Commerce et Finance : Vente, Stocks, Transport)**
-### **🛠️ Division HÉPHAÏSTOS (Craft : Construction, Fabrication, Réparation)**
-### **🌌 Division APOLLON (Exploration et Sciences : Cartographie, Repérage, Botanique)**
-### **⚔️ Division ATHÉNA (Défense, Sécurité, Ravitaillement et Réparation)**
-
----
-
 ## **📌 Hiérarchie des divisions**
 
 | Grade | Fonction | Niveau |
@@ -33,7 +23,7 @@
 
 ---
 
-## 📌 Hiérarchie Académique
+## **📌 Hiérarchie Académie**
 
 | Grade | Fonction |
 | -- | -- |
