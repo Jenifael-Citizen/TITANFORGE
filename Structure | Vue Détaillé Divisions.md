@@ -1,15 +1,5 @@
 # **TITANFORGE CONGLOMERATE**
 
-## **👑 HAUT COMMANDEMENT**
-
-- **4 Présidents (Fondateurs)**
-- **Ministres :**
-  - 🛠️ **Ministre des Formations**
-  - 👥 **Ministre du Recrutement**
-  - 📢 **Ministre du Marketing**
-
----
-
 ## **📌 Organisation des Divisions Opérationnelles**
 
 ### **🌾 Division DÉMÉTER**
