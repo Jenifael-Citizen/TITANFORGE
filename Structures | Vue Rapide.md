@@ -4,9 +4,12 @@
 
 - **4 Présidents (Fondateurs)**
 - **Ministres :**
-  - 🛠️ **Ministre des Formations** (Dirige l'Académie) → Gère les formations et l’intégration des nouvelles recrues.
+  - 🛠️ **Ministre des Formations** → Gère les formations et l’intégration des nouvelles recrues.
+    - Ministère des Formations → Académie
   - 👥 **Ministre du Recrutement** → Supervise l’arrivée de nouveaux membres et leur orientation.
-  - 📢 **Ministre du Marketing** → Assure la communication, la visibilité et l’image de l’organisation.
+  - 📢 **Ministres des relations** → Assure la communication, la visibilité et l’image de l’organisation.
+    - 🎯 **Ministre du Marketing** → Gère les supports visuels, campagnes et événements.
+    - 🤝 **Ministre de la Diplomatie** → Gère les relations inter-organisations et les alliances.
 
 ---
 
