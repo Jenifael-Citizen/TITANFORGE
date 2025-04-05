@@ -1,6 +1,6 @@
 # **TITANFORGE CONGLOMERATE**
 
-## **📌 Organisation des Divisions Opérationnelles**
+## **📌 Organisation des Divisions**
 
 ### **🌾 Division DÉMÉTER**
 
