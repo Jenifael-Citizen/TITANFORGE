@@ -12,7 +12,15 @@
 
 ## **📌 Organisation des Divisions Opérationnelles**
 
-### **📌 Hiérarchie des divisions**
+### **🌾 Division DÉMÉTER (Industrie : Minage, Salvage, Agriculture)**
+### **💰 Division HERMÈS (Commerce et Finance : Vente, Stocks, Transport)**
+### **🛠️ Division HÉPHAÏSTOS (Craft : Construction, Fabrication, Réparation)**
+### **🌌 Division APOLLON (Exploration et Sciences : Cartographie, Repérage, Botanique)**
+### **⚔️ Division ATHÉNA (Défense, Sécurité, Ravitaillement et Réparation)**
+
+---
+
+## **📌 Hiérarchie des divisions**
 
 | Grade                      | Fonction                                              | Niveau              |
 | -------------------------- | ----------------------------------------------------- | ------------------- |
@@ -22,4 +30,13 @@
 | 🪖 **Caporal**             | Dirige une escouade au sein de l'équipe du Lieutenant | Chef d'escouade     |
 | ⚙️ **Matelots**            | Membres actifs spécialisés                            | Membres d'escouades |
 | 🛑 _Volontaires Aspirants_ | Nouveaux membres en formation                         | Recrues             |
-|                            |                                                       |                     |
+
+---
+
+## 📌 Hiérarchie Académique
+
+| Grade                      | Fonction                                            |
+| --------------------------- | --------------------------------------------------- |
+| 🔱 **Vice-Amiral**         | Responsable de la formation au sein d’une division. |
+| ⚓ **Contre-Amiral**       | Formateur expert dans un domaine précis.            |
+| 🛑 _Volontaires Aspirants_ | Nouveaux membres en formation.                      |
